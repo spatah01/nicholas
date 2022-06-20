@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\exception\bin\Debug\net6.0\exception.exe
+C:\Users\HP\Desktop\exception\bin\Debug\net6.0\exception.deps.json
+C:\Users\HP\Desktop\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+C:\Users\HP\Desktop\exception\bin\Debug\net6.0\exception.dll
+C:\Users\HP\Desktop\exception\bin\Debug\net6.0\exception.pdb
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.dll
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\refint\exception.dll
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.pdb
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+C:\Users\HP\Desktop\exception\obj\Debug\net6.0\ref\exception.dll
